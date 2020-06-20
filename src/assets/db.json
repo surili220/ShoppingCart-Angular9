@@ -1,0 +1,52 @@
+{
+  "products" :[
+    {
+      "id" :1,
+      "name":"Product-1",
+      "price" : 175,
+      "discount" : 5,
+      "description" : "This product is very good. Try it yourself.",
+      "imgaeUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+  },
+  {
+    "id" :2,
+    "name":"Product-2",
+    "price" : 190,
+    "discount" : 7,
+    "description" : "This product is very good. Try it yourself.",
+    "imgaeUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+
+
+},
+{
+  "id" :3,
+  "name":"Product-3",
+  "price" : 213,
+  "discount" : 20,
+  "description" : "This product is very good. Try it yourself.",
+  "imgaeUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+
+},
+{
+  "id" :4,
+  "name":"Product-4",
+  "price" : 217,
+  "discount" : 18,
+  "description" : "This product is very good. Try it yourself.",
+  "imgaeUrl" :"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+
+},
+{
+  "id" :6,
+  "name":"Product-6",
+  "price" : 320,
+  "discount" : 30,
+  "description" : "This product is very good. Try it yourself.",
+  "imgaeUrl" :"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+
+}
+
+]
+}
+  
+  

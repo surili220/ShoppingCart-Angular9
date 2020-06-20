@@ -1,0 +1,15 @@
+
+<div class="card mb-4 shadow-sm">
+  <img class="bd-placeholder-img  card-img-top" width="100%"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"/>
+  <!--  <img class="bd-placeholder-img card-img-top" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"/>-->
+    <div class="card-body">
+      <h4 class="card-title">{{productItems.name}}</h4>
+      <p class="card-text">{{productItems.description}}</p>
+      <div class="d-flex justify-content-between align-items-center">
+        <div class="btn-group">
+         <!-- <button type="button" class="btn btn-sm btn-outline-secondary">View</button>-->
+          <button type="button" class="btn btn-sm btn-secondary" (click)="handleAddToCart()">ADD TO CART</button>
+        </div>
+       <strong> <small>{{productItems.price | currency:'INR'}}</small></strong>
+      </div>
+    </div>
